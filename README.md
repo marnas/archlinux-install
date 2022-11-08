@@ -1,7 +1,7 @@
-# Arch Linux install guide
+# Arch Linux install
 
-This is personal guide on how to install ArchLinux.
-Official reference - [ArchWiki Installation Guide](https://wiki.archlinux.org/index.php/Installation_Guide)
+These are some personal notes on how to install ArchLinux.
+Please refer to the official [Installation Guide](https://wiki.archlinux.org/index.php/Installation_Guide) for a more thorough documentation.
 
 ## Before you begin
 
